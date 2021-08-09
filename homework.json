@@ -1,0 +1,42 @@
+{
+	"films" : [
+		{
+			"name":"Star Wars",
+			"genre":"Sci-Fi",
+		    "country": "America",
+		    "date":"1977",
+		    "producer": "George Lucas"
+		},
+		{
+			"name":"American Pie",
+			"genre":"Comedy",
+		    "country": "America",
+		    "date":"1999",
+		    "producer": "Christopher Weitz"
+		},
+		{
+	
+			"name":"The Best of Enemies",
+			"genre":"Drama",
+		    "country": "America",
+		    "date":"2019",
+		    "producer": "Robin Bissell"
+		},
+		{
+	
+			"name":"Red Sea Diving Resort",
+			"genre":"History",
+		    "country": "America",
+		    "date":"2019",
+		    "producer": "Gideon Raff"
+		},
+		{
+	
+			"name":"Alien",
+			"genre":"Horror",
+		    "country": "America",
+		    "date":"1979",
+		    "producer": "Ridley Scott"
+		}
+	]	
+}

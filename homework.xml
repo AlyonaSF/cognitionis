@@ -1,0 +1,38 @@
+<?xml version="1.0"?>   
+<films>
+	<film>
+		<name>Star Wars</name>
+		<genre>Sci-Fi</genre>
+		<country>America</country>
+		<date>1977</date>
+		<producer>George Lucas</producer>
+	</film>
+	<film>
+		<name>American Pie</name>
+		<genre>Comedy</genre>
+		<country>America</country>
+		<date>1999</date>
+		<producer>Christopher Weitz</producer>
+	</film>
+	<film>
+		<name>The Best of Enemies</name>
+		<genre>Drama</genre>
+		<country>America</country>
+		<date>2019</date>
+		<producer>Robin Bissell</producer>
+	</film>
+	<film>
+		<name>Red Sea Diving Resort</name>
+		<genre>History</genre>
+		<country>America</country>
+		<date>2019</date>
+		<producer>Gideon Raff</producer>
+	</film>
+	<film>
+		<name>Alien</name>
+		<genre>Horror</genre>
+		<country>America</country>
+		<date>1979</date>
+		<producer>Ridley Scott</producer>
+	</film>
+</films>
